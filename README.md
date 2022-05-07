@@ -2,7 +2,7 @@
 
 A new group Flutter project.
 
-# Group Members : Group 
+# Group Members : TP-3 Api Users IFRI Troisième licence 
 
 - DEGAN Rick (GL)
 - SEMASSOU Clarita (IM)
